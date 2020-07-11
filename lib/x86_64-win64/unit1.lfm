@@ -1,0 +1,273 @@
+object Form1: TForm1
+  Left = 474
+  Height = 741
+  Top = 719
+  Width = 1780
+  Caption = 'Form1'
+  ClientHeight = 741
+  ClientWidth = 1780
+  LCLVersion = '1.8.2.0'
+  object Button1: TButton
+    Left = 8
+    Height = 56
+    Top = 16
+    Width = 104
+    Caption = '(I) Create 6 files '
+    OnClick = Button1Click
+    TabOrder = 0
+  end
+  object Button2: TButton
+    Left = 136
+    Height = 55
+    Top = 16
+    Width = 116
+    Caption = '(II) Selection sort'
+    OnClick = Button2Click
+    TabOrder = 1
+  end
+  object Button3: TButton
+    Left = 8
+    Height = 56
+    Top = 96
+    Width = 104
+    Caption = '(III) Stupid sort'
+    OnClick = Button3Click
+    TabOrder = 2
+  end
+  object Button4: TButton
+    Left = 136
+    Height = 56
+    Top = 96
+    Width = 116
+    Caption = 'Button4'
+    TabOrder = 3
+  end
+  object Button5: TButton
+    Left = 8
+    Height = 57
+    Top = 176
+    Width = 104
+    Caption = 'Button5'
+    TabOrder = 4
+  end
+  object Button6: TButton
+    Left = 136
+    Height = 57
+    Top = 176
+    Width = 116
+    Caption = 'Button6'
+    TabOrder = 5
+  end
+  object Memo1: TMemo
+    Left = 338
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo1'
+    )
+    TabOrder = 6
+  end
+  object Memo2: TMemo
+    Left = 416
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 7
+  end
+  object Memo3: TMemo
+    Left = 496
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 8
+  end
+  object Memo4: TMemo
+    Left = 576
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 9
+  end
+  object Memo5: TMemo
+    Left = 664
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 10
+  end
+  object Memo6: TMemo
+    Left = 744
+    Height = 325
+    Top = 16
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 11
+  end
+  object Memo7: TMemo
+    Left = 338
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 12
+  end
+  object Memo8: TMemo
+    Left = 416
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 13
+  end
+  object Memo9: TMemo
+    Left = 496
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 14
+  end
+  object Memo10: TMemo
+    Left = 576
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 15
+  end
+  object Memo11: TMemo
+    Left = 664
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 16
+  end
+  object Memo12: TMemo
+    Left = 744
+    Height = 325
+    Top = 376
+    Width = 62
+    Lines.Strings = (
+      'Memo2'
+    )
+    TabOrder = 17
+  end
+  object Label1: TLabel
+    Left = 296
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label2: TLabel
+    Left = 352
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label3: TLabel
+    Left = 432
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label4: TLabel
+    Left = 512
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label5: TLabel
+    Left = 592
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label6: TLabel
+    Left = 680
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object Label7: TLabel
+    Left = 760
+    Height = 15
+    Top = 352
+    Width = 24
+    Caption = 'time'
+    ParentColor = False
+  end
+  object PaintBox1: TPaintBox
+    Left = 832
+    Height = 160
+    Top = 32
+    Width = 450
+  end
+  object PaintBox2: TPaintBox
+    Left = 832
+    Height = 160
+    Top = 288
+    Width = 450
+  end
+  object PaintBox3: TPaintBox
+    Left = 832
+    Height = 160
+    Top = 536
+    Width = 450
+  end
+  object PaintBox4: TPaintBox
+    Left = 1320
+    Height = 160
+    Top = 32
+    Width = 450
+  end
+  object PaintBox5: TPaintBox
+    Left = 1320
+    Height = 160
+    Top = 288
+    Width = 450
+  end
+  object PaintBox6: TPaintBox
+    Left = 1320
+    Height = 160
+    Top = 536
+    Width = 450
+  end
+end
